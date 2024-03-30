@@ -45,8 +45,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/alaba-web/rc-api/)
+- Live Site URL: [Add live site URL here](https://alaba-web.github.io/rc-api/)
 
 ## My process
 
@@ -80,14 +80,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Alaba Azeez AMINU](https://alaba-web.github.io/rc-api/)
+- Frontend Mentor - [@alaba-web](https://www.frontendmentor.io/profile/alaba-web)
+- Twitter - [@alaba_azeez](https://www.twitter.com/alaba_azeez)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I thank God for successfully compeleting this challenge well and healthy, I want to thank frontend mentor for this beautifull challenge.
